@@ -1,11 +1,10 @@
 ---
 description: "AI job search command center -- show menu or evaluate job description"
-user_invocable: true
 ---
 
 # career-ops — AI Job Search Pipeline
 
-Career-ops router. Arguments provided: "$ARGUMENTS"
+Arguments provided: "$ARGUMENTS"
 
 ## Auto-detect mode
 
